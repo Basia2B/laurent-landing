@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://laurent.nyc",
+  "homepage": "https://basia2b.github.io/laurent-landing/",
   "eslintConfig": {
     "extends": "react-app"
   },
